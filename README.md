@@ -14,3 +14,6 @@ The system uses an ESP32 as the main controller to monitor water flow through a 
 The ESP32 controls the pump through a relay and provides local status information through an SSD1306 OLED display. A DS3231 RTC provides time information, while a microSD card stores operational data for later analysis.
 
 <img width="501" height="655" alt="image" src="https://github.com/user-attachments/assets/96cdb6a2-c4bb-489f-b441-4b5b83715a19" />
+
+## Hardware
+<img width="805" height="426" alt="Screenshot 2026-10-04 162901" src="https://github.com/user-attachments/assets/016fb7ef-793b-46d7-958c-88c497674852" />
