@@ -56,4 +56,24 @@ The stored data provides a record of pump operation and fault events for later a
 
 <img width="535" height="153" alt="image" src="https://github.com/user-attachments/assets/bb20714f-a0d7-4b27-9d1c-72f366954c3c" />
 
+### System Block Diagram
+
+<img width="1009" height="493" alt="image" src="https://github.com/user-attachments/assets/ecdf077e-0e3b-460c-811e-1620015f1b56" />
+
+### Hardware Prototype
+
+<img width="848" height="494" alt="image" src="https://github.com/user-attachments/assets/5cd2bced-3901-4df5-a007-49a54dc5041f" />
+
+### OLED Display — Normal Operation
+
+<img width="325" height="268" alt="image" src="https://github.com/user-attachments/assets/38e92ef8-a855-4b36-932f-8cf5b8c2cf4b" />
+
+### OLED Display — Fault Condition
+
+<img width="335" height="279" alt="image" src="https://github.com/user-attachments/assets/884c6b65-b678-410a-a3a2-a74581624db7" />
+
+### Test Cases
+
+<img width="795" height="137" alt="image" src="https://github.com/user-attachments/assets/33f6a8f6-925a-4f05-82fc-e22af648dce2" />
+
 
